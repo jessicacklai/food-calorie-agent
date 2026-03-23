@@ -1,0 +1,29 @@
+{
+  "2026-03-23": [
+    {
+      "meal_name": "breakfast this morning",
+      "food_name": "2 eggs",
+      "calories": 140
+    },
+    {
+      "meal_name": "breakfast this morning",
+      "food_name": "2 slices of bread",
+      "calories": 250
+    },
+    {
+      "meal_name": "breakfast this morning",
+      "food_name": "celery",
+      "calories": 70
+    },
+    {
+      "meal_name": "breakfast this morning",
+      "food_name": "large cup of milk tea",
+      "calories": 124
+    },
+    {
+      "meal_name": "dinner",
+      "food_name": "rice, pork, vegetable, milk tea",
+      "calories": 564
+    }
+  ]
+}
